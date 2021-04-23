@@ -1,0 +1,64 @@
+body {
+  font-family: 'Permanent Marker', cursive;;
+  text-align:center;
+  background-image: url('https://i.pinimg.com/originals/70/7c/8f/707c8f42497005deadc43bcd0b57f7c2.gif');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  font-size: 70px;
+  text-shadow: 2px 2px 4px black;
+  text-align: center;
+  padding: 15px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 100px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+.animeImage {
+  width: 400px;
+  margin: 0 10px;
+  border: thick double #ffffff; 
+}
+
+.animeContent {
+  color: #ffffff;
+  text-shadow: 2px 2px 7px black;
+  display: inline-block;
+  justify-content: center;
+  margin: 0 10px;
+}
+
+.animeContent:hover {
+  transform: scale(1.05);
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+p {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
