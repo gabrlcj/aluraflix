@@ -1,6 +1,4 @@
-<h1> ANIMEFLIX </h1>
-
-# <i>aluraflix</i>
+<h1 align="center">🎬 <i>ANIMEFLIX / Aluraflix</i></h1>
 
 Projeto realizado na imersão dev da  Alura.
 
