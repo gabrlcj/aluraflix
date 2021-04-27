@@ -13,7 +13,7 @@ Uma pequena lista com alguns animes com links clicaveis nas imagens que irão re
 
   - [JavaScript](https://www.javascript.com/)
   - [CSS](https://www.w3schools.com/css/)
-  - [HTML](https://www.learn-html.org/)
+  - [HTML](https://www.w3schools.com/html/)
 
 
 Este codigo foi feito no codepen.io, você pode acessar por aqui:
