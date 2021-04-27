@@ -9,12 +9,12 @@ Uma pequena lista com alguns animes com links clicaveis nas imagens que irão re
 
 
 
-<h2>Linguagens utilizadas</h2>
-<ul>
-  <li>JavaScript</li>
-  <li>CSS</li>
-  <li>HTML</li>
-</ul>
+<h2>🏗️ Linguagens utilizadas: 🏗️</h2>
+
+  - [JavaScript](https://www.javascript.com/)
+  - [CSS](https://www.w3schools.com/css/)
+  - [HTML](https://www.learn-html.org/)
+
 
 Este codigo foi feito no codepen.io, você pode acessar por aqui:
 https://codepen.io/gabrlcj/full/PoWjvoY
